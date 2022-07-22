@@ -1,0 +1,18 @@
+.picture-size{
+  height: 92.8vh;
+}
+.btnbtn{
+  color: #ffffff8c;
+  background-color: #212529;
+  border: 0px;
+
+}
+.navbar-nav{
+display: flex;
+align-items: center;
+}
+.car{
+display: contents;
+align-items: center;
+
+}

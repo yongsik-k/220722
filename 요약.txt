@@ -1,0 +1,64 @@
+======
+Bootstrap
+======
+- bootsrtap은 마트와 같다. 한번가는것도 아니고 필요에 의해서 사용한다.
+
+- 공식문서를 볼 줄 알아야 해. documentations 이하, docs
+
+- 아이콘은 구글아이콘
+
+- 번역하다가 이상한 단어가 나오면, 차라리 영어가 더 해석이 완성도높은 경우가 많다.
+
+- CDN은 전세계 서버에서 가장 가까운 것을 가져온다. 빠르다.
+얘는 다운로드받는게 아니고 링크를 걸어놓는 것. 소스코드를 다운받고 내 서버에 저장하는 것은 MPN
+
+- 부트스트랩은 제이커리방식이기 때문에 최근과 혼용이 안된다. 근데, 최근유저에게도 제이쿼리 기반으로도 사용하고 싶다? 이럴때는 React Bootstrap을 제공한다. 근데 이건 기존대비 30%정도만 제공한다. 근데 최근 5.0버전이 개발되었는데, 이것은 JS 기반이기 때문에 앞으로 5.0으로만 사용하라.
+
+- pooper; 부트스트랩도 다른 라이브러리를 참고하기도 해. 그중 하나가 푸퍼
+
+- 부트스트랩 설치는 https://getbootstrap.com/ 에서 Include via CDN에서 header, body 위에 작성 이렇게 작성만 하는것으로 설치가 된거야!
+
+- 공식문서는 넘어가는게 중요해!
+
+- 폰트가 달라졌을때는 번역기가 이상하게 해석할 수 있어. 그러니까 이러떄는 구글에서 번역기 눌러서 해
+
+- 아이콘은 기본적으로 폰트다.[ fonawesome사이트, 유료 ]
+1. 우리는 구글폰트간다.
+2. 폰트를 누르고
+3. instruction를 누른다.
+4. 하기와 같은 것을 head에 넣는다.
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      	rel="stylesheet">
+5. instruction 폰트에 주어져 있는 하기와 같은 것을 body에 넣는다. 주의할 점은, class에 material-icons이라고 되어있는데, 이걸 추가해줘야한다. 처음 복사할 때는 없어
+	<span class="material-icons material-icons-outlined">
+     	 arrow_forward
+    	  </span>
+
+=====
+웹 프로젝트
+=====
+1. 멋지게 만들자!
+
+큰 틀을 짜고
+다시봐
+
+justify-content-end
+
+100vh는 화면에 이미지를 꽉 채울 때 사용한다.
+vertical H 100vh는 화면 전체를 의미한다.
+
+
+
+Yong-sik_kim
+자동차 연구원이 되고 싶습니다.
+여주대 자동차학
+국민대 자동차공학
+SSAFY 8기
+
+
+
+
+
+
+
+ 
